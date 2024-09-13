@@ -15,15 +15,9 @@ This is a simple expense tracker application that allows users to manage their e
 - JavaScript
 - Node.js
 
-### Project Structure:
-- `index.js`: Main application file
-- `package.json`: Project dependencies and scripts
-- [Other relevant files and folders]
-
 ### Setup and Installation:
 1. Clone the repository
 2. Run `npm install` to install dependencies
-3. [Any additional setup steps]
 
 ### Usage:
 1. Run `npm start` to start the application
@@ -44,15 +38,9 @@ Este é um aplicativo simples de rastreamento de despesas que permite aos usuár
 - JavaScript
 - Node.js
 
-### Estrutura do Projeto:
-- `index.js`: Arquivo principal da aplicação
-- `package.json`: Dependências e scripts do projeto
-- [Outros arquivos e pastas relevantes]
-
 ### Configuração e Instalação:
 1. Clone o repositório
 2. Execute `npm install` para instalar as dependências
-3. [Quaisquer etapas adicionais de configuração]
 
 ### Uso:
 1. Execute `npm start` para iniciar a aplicação
