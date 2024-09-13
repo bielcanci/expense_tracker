@@ -30,14 +30,6 @@ To set up the Despesas project locally, follow these steps:
 
 6. Run the application:
 
-## Usage
-
-1. Register an account or log in
-2. Add new expenses using the "Add Expense" form
-3. View your expenses on the dashboard
-4. Generate reports to analyze your spending habits
-5. Set budget goals and track your progress
-
 ## Contributing
 
 We welcome contributions to the Despesas project! Please follow these steps:
@@ -54,4 +46,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-If you have any questions or suggestions, please open an issue or contact the maintainer at: your.email@example.com
+If you have any questions or suggestions, please open an issue or contact the maintainer at: bielcanci@hotmail.com
