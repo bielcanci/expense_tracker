@@ -1,4 +1,4 @@
-Running on Netlifl: https://app.netlify.com/sites/expensetrackerrrr/overview
+Running on Netlify: https://expensetrackerrrr.netlify.app/
 
 # Expense Tracker / Rastreador de Despesas
 
