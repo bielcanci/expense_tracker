@@ -9,16 +9,8 @@ const Navigation: React.FC = () => {
   return (
     <nav className="nav-container">
       <ul className="nav-list">
-        <li className="nav-item">
-          <NavLink
-            to="/login"
-            className={({ isActive }) =>
-              isActive ? "nav-link active" : "nav-link"
-            }
-          >
-            Login
-          </NavLink>
-        </li>
+    
+     
         <li className="nav-item">
           <NavLink
             to="/"

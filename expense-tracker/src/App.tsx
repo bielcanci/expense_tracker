@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import Dashboard from "./pages/Dashboard";
 import Sobre from "./pages/Sobre";
 import { AppProvider } from "./contexts/AppContext";
-import Login from "./pages/Login";
+
 
 function App() {
   return (
