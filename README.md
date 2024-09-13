@@ -1,3 +1,5 @@
+Running on Netlifl: https://app.netlify.com/sites/expensetrackerrrr/overview
+
 # Expense Tracker / Rastreador de Despesas
 
 ## English
