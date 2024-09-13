@@ -42,7 +42,7 @@ const Sobre: React.FC = () => {
           <h2 className="about-section-title">Contato</h2>
           <p>Tem alguma dúvida ou sugestão? Entre em contato conosco:</p>
           <a
-            href="mailto:contato@expensetracker.com"
+            href="mailto:bielcanci@hotmail.com"
             className="contact-button"
           >
             Enviar E-mail
