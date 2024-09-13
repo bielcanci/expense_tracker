@@ -1,49 +1,49 @@
-# Despesas (Expense Tracker)
+Running on Netlify: https://expensetrackerrrr.netlify.app/
 
-## Overview
+# Expense Tracker / Rastreador de Despesas
 
-Despesas is a simple and efficient expense tracking application designed to help users manage their personal finances. This application allows users to record, categorize, and analyze their expenses, providing insights into spending habits and helping with budgeting.
+## English
 
-## Features
+This is a simple expense tracker application that allows users to manage their expenses efficiently.
 
-- Record expenses with date, amount, category, and description
-- Categorize expenses (e.g., food, transportation, entertainment)
-- View expense summaries and reports
-- Set and track budget goals
-- Export data for further analysis
+### Features:
+- Add new expenses with date, description, and amount
+- View all expenses
+- Calculate total expenses
+- Delete specific expenses
+- Clear all expenses
 
-## Installation
+### Technologies Used:
+- JavaScript
+- Node.js
 
-To set up the Despesas project locally, follow these steps:
+### Setup and Installation:
+1. Clone the repository
+2. Run `npm install` to install dependencies
 
-1. Clone the repository:
+### Usage:
+1. Run `npm start` to start the application
+2. Follow the prompts to manage your expenses
 
-2. Navigate to the project directory:
+## Português
 
-3. Install dependencies:
+Este é um aplicativo simples de rastreamento de despesas que permite aos usuários gerenciar suas despesas de forma eficiente.
 
-4. Set up the database (instructions may vary based on your database choice)
+### Funcionalidades:
+- Adicionar novas despesas com data, descrição e valor
+- Visualizar todas as despesas
+- Calcular o total de despesas
+- Excluir despesas específicas
+- Limpar todas as despesas
 
-5. Configure environment variables:
-- Copy `.env.example` to `.env`
-- Update the variables in `.env` with your specific configuration
+### Tecnologias Utilizadas:
+- JavaScript
+- Node.js
 
-6. Run the application:
+### Configuração e Instalação:
+1. Clone o repositório
+2. Execute `npm install` para instalar as dependências
 
-## Contributing
-
-We welcome contributions to the Despesas project! Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-If you have any questions or suggestions, please open an issue or contact the maintainer at: bielcanci@hotmail.com
+### Uso:
+1. Execute `npm start` para iniciar a aplicação
+2. Siga as instruções para gerenciar suas despesas
